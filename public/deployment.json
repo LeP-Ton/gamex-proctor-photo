@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "photo",
+  "sourceRepository": "LeP-Ton/gamex-proctor-simulator",
+  "sourceBranch": "codex/photo",
+  "sourceCommit": "20baa50d35e29883efbb46ae49776a46f30efd84",
+  "sourceTree": "cff0c4a49a5a55cc14a1aefe558765400070e78f",
+  "deploymentRepository": "LeP-Ton/gamex-proctor-photo",
+  "deploymentBranch": "codex/photo"
+}
